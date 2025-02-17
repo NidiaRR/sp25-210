@@ -1,0 +1,23 @@
+p {
+    color: red;
+    background-color: black;
+}
+
+#lemon {
+    padding: 100px;
+}
+
+.banana-guard {
+    font-size: 40px;
+}
+
+p + h4 {
+    height: 30px;
+    background-color: red;
+    color: white;
+}
+
+body h1 ` p {
+    padding-bottom: 200px;
+}
+
