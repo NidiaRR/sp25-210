@@ -1,3 +1,5 @@
+Live link: https://github.com/NidiaRR/sp25-210/tree/main/homework-3
+
 This assignment involves creating three different web pages for a music school and a photography studio. The task was to develop an instrument lesson booking system, a page for displaying student test scores, and an image gallery for a photography studio. Each page uses HTML for structure and JavaScript to handle dynamic content.
 
 In the Instrument Lessons project, the goal was to create a page where students can view a list of available instruments for booking lessons. The JavaScript loops through an array of instruments and displays them on the page.
