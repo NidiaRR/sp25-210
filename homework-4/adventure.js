@@ -30,7 +30,7 @@ function enterForest() {
 
 function stayHome() {
   storySection.innerHTML = `
-    <p>You decide it's too dangerous and stay home. The end. :/ </p>
+    <p>You decide it's too dangerous and stay home. The (boring) end. :/ </p>
   `;
 }
 
