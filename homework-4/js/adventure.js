@@ -20,9 +20,16 @@ function startAdventure() {
   }
 }
 
+//const confirmChoice = confirm("you chose" + pokemonName);
+
+//if (confirmChoice) {
+  //journeyRef.innerHTML +=
+  //"you chose" + pokemonName + "as your starter pokemon.";
+
 function enterForest() {
   // Confirm before entering the forest
-  if (window.confirm("Are you sure you want to enter the forest?")) {
+  //if (window.confirm("Are you sure you want to enter the forest?"))
+     {
     storySection.innerHTML = 
       `<p>You venture deep into the forest and come across a fork in the path. Do you go left or right?</p>
       <button id="goLeft">Go Left</button>
