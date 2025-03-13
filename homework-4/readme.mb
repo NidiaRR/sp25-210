@@ -1,0 +1,11 @@
+## Assignment 4: Choose Your Adventure Story
+
+### Story Summary
+My story is an interactive adventure where the user takes the role of a brave knight who ventures into a dark forest to find a hidden treasure. Along the way, they encounter a series of decisions that impact the outcome of their adventure. I chose this theme because it allows for multiple decision points and branching paths, making the story more engaging.
+
+### Key Takeaways
+- Using `if/else` statements allows for dynamic decision-making.
+- Functions and variables help organize the story flow and user input.
+- Prompt and confirm dialogs create interactive elements for user choices.
+
+### Live Link
