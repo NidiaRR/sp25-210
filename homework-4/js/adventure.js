@@ -28,7 +28,7 @@ function startAdventure() {
 
 function enterForest() {
   // Confirm before entering the forest
-  //if (window.confirm("Are you sure you want to enter the forest?"))
+  if (window.confirm("Are you sure you want to enter the forest?"))
      {
     storySection.innerHTML = 
       `<p>You venture deep into the forest and come across a fork in the path. Do you go left or right?</p>
