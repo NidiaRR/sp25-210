@@ -4,18 +4,29 @@ const catalogRef = document.querySelector("#catalog");
 // Data
 const catalogItems = [
   {
-    image: "<img src='../images/i210-midterm-product1.webp'/>",
+    image: "images/i210-midterm-product1.webp",
     name: "My First Fire",
   },
   {
-    image: "<img src='../images/i210-midterm-product2.webp'/>",
-    name: "My First Fire",
+    image: "images/i210-midterm-product2.webp",
+    name: "Handy Hand",
   },
   {
-    image: "<img src='../images/i210-midterm-product3.webp'/>",
-    name: "My First Fire",
+    image: "<images/i210-midterm-product3.webp",
+    name: "NapSack",
   },
-
+  {
+    image: "<images/i210-midterm-product4.webp",
+    name: "Hot Tub Wildlife Feeder",
+  },
+  {
+    image: "<images/i210-midterm-product5.webp",
+    name: "Toilet Meadow",
+  },
+  {
+    image: "<images/i210-midterm-product6.webp",
+    name: "Pudding Pouch",
+  },
   
 
 ];
