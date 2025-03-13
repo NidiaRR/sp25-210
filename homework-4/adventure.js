@@ -12,6 +12,9 @@ function startAdventure() {
       <button id="enterForest">Enter the Forest</button>
       <button id="stayHome">Stay at Home</button>`;
 
+  //Remember that the addEventListener trigger a specific function when that event occurs.
+
+
     document.getElementById("enterForest").addEventListener("click", enterForest);
     document.getElementById("stayHome").addEventListener("click", stayHome);
   }
