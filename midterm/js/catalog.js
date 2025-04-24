@@ -12,19 +12,19 @@ const catalogItems = [
     name: "Handy Hand",
   },
   {
-    image: "<images/i210-midterm-product3.webp",
+    image: "images/i210-midterm-product3.webp",
     name: "NapSack",
   },
   {
-    image: "<images/i210-midterm-product4.webp",
+    image: "images/i210-midterm-product4.webp",
     name: "Hot Tub Wildlife Feeder",
   },
   {
-    image: "<images/i210-midterm-product5.webp",
+    image: "images/i210-midterm-product5.webp",
     name: "Toilet Meadow",
   },
   {
-    image: "<images/i210-midterm-product6.webp",
+    image: "images/i210-midterm-product6.webp",
     name: "Pudding Pouch",
   },
   
